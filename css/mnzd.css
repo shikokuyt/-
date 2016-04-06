@@ -1,0 +1,11 @@
+#result {
+  display: flex;
+  margin-top: 15px; }
+  #result div {
+    margin-right: 5px;
+    color: #fff;
+    background-color: red;
+    text-align: center;
+    padding: 10px 15px; }
+
+/*# sourceMappingURL=mnzd.css.map */
