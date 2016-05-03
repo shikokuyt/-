@@ -5,3 +5,4 @@
 1. [模拟栈与队列](/js/mnzd.js)，call/apply的优雅写法
 2. [移动端REM适配](/js/fitMobile.js)
 3. [new的替代](/js/newPrinciple.js)
+4. [多行文字居中](/html/多行文字居中.html)
