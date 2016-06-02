@@ -6,3 +6,4 @@
 2. [移动端REM适配](/js/fitMobile.js)
 3. [new的替代](/js/newPrinciple.js)
 4. [多行文字居中](/html/多行文字居中.html)
+5. [在Node和浏览器环境获取全局变量的模式](/js/getGlobal.js)
